@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/css/main.2dc2eb26.css",
+    "main.js": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/js/main.03c4804a.js",
+    "static/js/592.1af84e2a.chunk.js": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/js/592.1af84e2a.chunk.js",
+    "static/media/cloud.png": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/index.html",
+    "main.2dc2eb26.css.map": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/css/main.2dc2eb26.css.map",
+    "main.03c4804a.js.map": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/js/main.03c4804a.js.map",
+    "592.1af84e2a.chunk.js.map": "/%3Chttps://leyajoy.github.io/weatherapp-react%3E/static/js/592.1af84e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc2eb26.css",
+    "static/js/main.03c4804a.js"
+  ]
+}
