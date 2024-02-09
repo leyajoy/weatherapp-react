@@ -24,9 +24,9 @@ function WeatherApp() {
     const humidity = document.getElementsByClassName("humidity_percent");
     const temperature = document.getElementsByClassName("weather_temp");
     const location = document.getElementsByClassName("weather_location");
-    humidity[0].innerHTML = data.main.humidity + " " + " %";
-    wind[0].innerHTML = data.wind.speed + " " + " km/h";
-    temperature[0].innerHTML = data.main.temp + " " + " °c";
+    humidity[0].innerHTML = data.main.humidity + " %";
+    wind[0].innerHTML = data.wind.speed + " km/h";
+    temperature[0].innerHTML = data.main.temp + " °c";
     location[0].innerHTML = data.name;
     if (data.weather[0].icon === "01d" || data.weather[0].icon === "01n") {
       setWicon(clear_icon);
