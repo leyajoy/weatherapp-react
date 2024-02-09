@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/css/main.2dc2eb26.css",
-    "main.js": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/js/main.e9788de0.js",
-    "static/js/592.1af84e2a.chunk.js": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/js/592.1af84e2a.chunk.js",
-    "static/media/cloud.png": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/media/cloud.20f353f873a9b27949a9.png",
-    "index.html": "/%3Chttps://leyajoy.github.io/Weather-App%3E/index.html",
-    "main.2dc2eb26.css.map": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/css/main.2dc2eb26.css.map",
-    "main.e9788de0.js.map": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/js/main.e9788de0.js.map",
-    "592.1af84e2a.chunk.js.map": "/%3Chttps://leyajoy.github.io/Weather-App%3E/static/js/592.1af84e2a.chunk.js.map"
+    "main.css": "/Weather-App/static/css/main.2dc2eb26.css",
+    "main.js": "/Weather-App/static/js/main.9b11312c.js",
+    "static/js/592.1af84e2a.chunk.js": "/Weather-App/static/js/592.1af84e2a.chunk.js",
+    "static/media/cloud.png": "/Weather-App/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Weather-App/index.html",
+    "main.2dc2eb26.css.map": "/Weather-App/static/css/main.2dc2eb26.css.map",
+    "main.9b11312c.js.map": "/Weather-App/static/js/main.9b11312c.js.map",
+    "592.1af84e2a.chunk.js.map": "/Weather-App/static/js/592.1af84e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dc2eb26.css",
-    "static/js/main.e9788de0.js"
+    "static/js/main.9b11312c.js"
   ]
 }
